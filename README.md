@@ -1,1 +1,1 @@
-# Numerki_4
+Easy task from numerical integration in Python
